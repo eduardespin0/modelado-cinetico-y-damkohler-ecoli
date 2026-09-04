@@ -8,7 +8,7 @@ Este repositorio contiene el análisis computacional utilizado para investigar l
 
 
 📌 Estructura del Proyecto
-El análisis está dividido en 5 Jupyter Notebooks modulares para facilitar su validación científica:
+El análisis está dividido en 6 Jupyter Notebooks modulares para facilitar su validación científica:
 *   **`1_tasa_asociacion.ipynb`**: Aísla la inyección de la sonda y ajusta un modelo de pseudo-primer orden.
 *   **`2_tasa_disociacion.ipynb`**: Modela el decaimiento exponencial durante la fase de lavado.
 *   **`3_calculo_parametros_finales.ipynb`**: Calcula la afinidad aparente y la fuerza de retención molecular.
