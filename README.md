@@ -22,7 +22,7 @@ El análisis se fundamenta en un flujo de procesamiento de datos estructurado, d
 *   **`DatosEnCrudo.xlsx`**: Datos originales obtenidos directamente del equipo sin procesamiento previo. Contiene la serie de tiempo completa y las lecturas de fluorescencia base.
 *   **`DatosLimpiosFasedeAsociacion.xlsx`**: Subconjunto de datos procesados, filtrados y normalizados en tiempo para la fase de inyección de la sonda. Es el *input* directo para calcular la tasa observada ($k_{obs}$).
 *   **`DatosLimpiosFasedeDisociacion.xlsx`**: Subconjunto de datos procesados correspondientes exclusivamente a la fase de lavado con buffer. Es el *input* directo para calcular la tasa de disociación ($k_{off}$).
-*   **`simulated_damkohler_scenario_data.csv`**: Conjunto de datos con simulaciones a diferentes tasas de flujo volumétrico (0.005, 0.05 y 0.5 mL/min). Se utiliza en el Script 5 para calcular el Número de Damköhler y separar el efecto biológico del arrastre físico.
+*   **`simulated_damkohler_scenario_data.csv`**: Conjunto de datos con simulaciones a diferentes tasas de flujo volumétrico (0.005, 0.05 y 0.5 mL/min). Se utiliza en el Script 6 para calcular el Número de Damköhler y separar el efecto biológico del arrastre físico.
 
 
 🚀 Cómo visualizar el proyecto
